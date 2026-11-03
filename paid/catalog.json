@@ -1,0 +1,118 @@
+{
+  "schema": 1,
+  "slotCount": 11,
+  "defaultImageRevision": "f4b391407fa106b9232df9ad3c3e643131ed2a2b1366e82fcb4faeb577fc9a43",
+  "slots": [
+    {
+      "id": 1,
+      "enabled": true,
+      "title": "HwabonPoster",
+      "mode": 0,
+      "target": "https://discord.com/users/1281625282595524629",
+      "start": 0,
+      "end": 0,
+      "imageRevision": "b67c5eacc931f7b2abf49d2d277323531044b6f086b8bc73d42cbac69bbf1116"
+    },
+    {
+      "id": 2,
+      "enabled": true,
+      "title": "Bami",
+      "mode": 0,
+      "target": "https://alphano.booth.pm/items/8683661",
+      "start": 0,
+      "end": 0,
+      "imageRevision": "6f1597ea891436c2ffa1eb8d8b6c30bdd03e8d843c7774c32160b1c34f2ab8cd"
+    },
+    {
+      "id": 3,
+      "enabled": true,
+      "title": "보고프구2",
+      "mode": 0,
+      "target": "https://discord.com/invite/AEVagPPAQU",
+      "start": 1793545200,
+      "end": 1794754800,
+      "imageRevision": "33c0d12f9c27509e2938efce84aa39e92fc06186d089b93c08dcb738a9e04954"
+    },
+    {
+      "id": 4,
+      "enabled": true,
+      "title": "빈 슬롯",
+      "mode": 3,
+      "target": "",
+      "start": 0,
+      "end": 0,
+      "imageRevision": "f4b391407fa106b9232df9ad3c3e643131ed2a2b1366e82fcb4faeb577fc9a43"
+    },
+    {
+      "id": 5,
+      "enabled": true,
+      "title": "빈 슬롯",
+      "mode": 3,
+      "target": "",
+      "start": 0,
+      "end": 0,
+      "imageRevision": "f4b391407fa106b9232df9ad3c3e643131ed2a2b1366e82fcb4faeb577fc9a43"
+    },
+    {
+      "id": 6,
+      "enabled": true,
+      "title": "어메옆_BOSS",
+      "mode": 1,
+      "target": "grp_8e1f4979-fc11-42a1-875c-245dd4c117a0",
+      "start": 1792854000,
+      "end": 1795273200,
+      "imageRevision": "30d263f136ba6edf0f9e9f595a5c753449ecbe65856e312f22aff1c59a95addd"
+    },
+    {
+      "id": 7,
+      "enabled": true,
+      "title": "Our Made",
+      "mode": 1,
+      "target": "grp_3c5aa4d8-62ea-4ce9-b335-435d73504ed1",
+      "start": 1793458800,
+      "end": 1796050800,
+      "imageRevision": "7d7565c6bb62d2a76d016b09c89041b13dd4d997ca8d189b5cdfc7cbec42f88e"
+    },
+    {
+      "id": 8,
+      "enabled": true,
+      "title": "SpeakUP",
+      "mode": 1,
+      "target": "grp_062ceb5f-f081-4cff-a7e4-21417b0de60a",
+      "start": 1791298800,
+      "end": 1793718000,
+      "imageRevision": "b0b3e817cf62c37b4283143f443519087d7c16107248c0cdbba3007d1bb0fa61"
+    },
+    {
+      "id": 9,
+      "enabled": true,
+      "title": "달빛마리나교류의밤",
+      "mode": 1,
+      "target": "grp_3f7f12c8-04b5-4c85-ab80-e0f73ef4ee14",
+      "start": 1792767600,
+      "end": 1795186800,
+      "imageRevision": "4d6f2b227d397209281d990949c015a9db38dc222e9a80f8269e1779c71b9972"
+    },
+    {
+      "id": 10,
+      "enabled": true,
+      "title": "빈 슬롯",
+      "mode": 3,
+      "target": "",
+      "start": 0,
+      "end": 0,
+      "imageRevision": "f4b391407fa106b9232df9ad3c3e643131ed2a2b1366e82fcb4faeb577fc9a43"
+    },
+    {
+      "id": 11,
+      "enabled": true,
+      "title": "빈 슬롯",
+      "mode": 3,
+      "target": "",
+      "start": 0,
+      "end": 0,
+      "imageRevision": "f4b391407fa106b9232df9ad3c3e643131ed2a2b1366e82fcb4faeb577fc9a43"
+    }
+  ],
+  "revision": "75a7ce7608d80fa409a7e669d873be3c84969601c26ed91d449c2794481fb726"
+}
