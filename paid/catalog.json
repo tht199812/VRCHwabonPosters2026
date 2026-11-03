@@ -79,8 +79,8 @@
       "title": "SpeakUP",
       "mode": 1,
       "target": "grp_062ceb5f-f081-4cff-a7e4-21417b0de60a",
-      "start": 1791298800,
-      "end": 1793718000,
+      "start": 1793718000,
+      "end": 1796137200,
       "imageRevision": "b0b3e817cf62c37b4283143f443519087d7c16107248c0cdbba3007d1bb0fa61"
     },
     {
@@ -96,12 +96,12 @@
     {
       "id": 10,
       "enabled": true,
-      "title": "빈 슬롯",
-      "mode": 3,
-      "target": "",
-      "start": 0,
-      "end": 0,
-      "imageRevision": "f4b391407fa106b9232df9ad3c3e643131ed2a2b1366e82fcb4faeb577fc9a43"
+      "title": "VIVIAN / 데아",
+      "mode": 0,
+      "target": "https://seodea.booth.pm/",
+      "start": 1793718000,
+      "end": 1798556400,
+      "imageRevision": "4b058b07e4665e855f635da9c126f4d6f4867782548cb3f71258fbaa16a86e93"
     },
     {
       "id": 11,
@@ -114,5 +114,5 @@
       "imageRevision": "f4b391407fa106b9232df9ad3c3e643131ed2a2b1366e82fcb4faeb577fc9a43"
     }
   ],
-  "revision": "75a7ce7608d80fa409a7e669d873be3c84969601c26ed91d449c2794481fb726"
+  "revision": "9d1159b8762e7b2fe57c18b80697899e60e66222a5011fa0555cf09fc48724ff"
 }
