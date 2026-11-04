@@ -114,5 +114,10 @@
       "imageRevision": "eb64cf4d9cb57a9785e4588caa35a09a98956bf4fd82d2c77ec18bff5f65d9da"
     }
   ],
-  "revision": "9f8d474dec2b883f3c364e7eded8bae08ecb1f5c6a2573fe9fdff2e3da442536"
+  "atlasRevisions": [
+    "b9e419c466e7312298b7416b493a1b4c5363a32cd2e9d447a358a662fd4896c7",
+    "5ccee733b4975e9ca2e59ef46066e65aa9651b62878dc5090a1cc8cf90166063",
+    "4b34f9c3a3ae882915452e8186fec2dd91726d84bc2183d148bc20e3cb0119b7"
+  ],
+  "revision": "d1f7dbe052d592b8be3e6c45507eee42ab9b7c703f46c041ce6700727afcbe33"
 }
