@@ -40,7 +40,7 @@
       "mode": 0,
       "target": "https://discord.com/invite/AEVagPPAQU",
       "start": 1794028106,
-      "end": 1795237706,
+      "end": 1795258800,
       "imageRevision": "c38fcb0cbb403867f220f492b16ce6590a96321f96914252ba73349f8d426f48"
     },
     {
@@ -119,5 +119,5 @@
     "5ccee733b4975e9ca2e59ef46066e65aa9651b62878dc5090a1cc8cf90166063",
     "19a949f6bbaa1c8480442f3bfdb16ef753da79191efa225caf495ab4f9bbf7c8"
   ],
-  "revision": "8fea442ac0bf8c37d13cc8c3e909aa3190de94ad45e1ca41c6d9695343415475"
+  "revision": "7ed64c34833ca7c216172ca78b55f4a9f812870f717a9e09266f47e941fad329"
 }
