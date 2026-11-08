@@ -46,12 +46,12 @@
     {
       "id": 5,
       "enabled": true,
-      "title": "빈 슬롯",
-      "mode": 3,
-      "target": "",
-      "start": 0,
-      "end": 0,
-      "imageRevision": "eb64cf4d9cb57a9785e4588caa35a09a98956bf4fd82d2c77ec18bff5f65d9da"
+      "title": "제5회 VR 한국사진협회 사진 공모전",
+      "mode": 0,
+      "target": "https://discord.gg/5dKXB2Xv3G",
+      "start": 1794175544,
+      "end": 1795385144,
+      "imageRevision": "d1b9a40d8f7437fbf5f6ffa6d858dd465fe8a156b541a79f26236daf163eeee6"
     },
     {
       "id": 6,
@@ -76,12 +76,12 @@
     {
       "id": 8,
       "enabled": true,
-      "title": "SpeakUP",
+      "title": "SpeakUP / 메이드업 카페",
       "mode": 1,
       "target": "grp_062ceb5f-f081-4cff-a7e4-21417b0de60a",
-      "start": 1793718000,
-      "end": 1796137200,
-      "imageRevision": "68ba91a66e1aa3e97b9f079787e0a39c8cbea822aa6cff553303dcdab92d8e78"
+      "start": 1794175544,
+      "end": 1794409200,
+      "imageRevision": "3cec2fc0df44b9105500bd78eb6969db3e250a14b29d41041073da5145389f42"
     },
     {
       "id": 9,
@@ -116,8 +116,8 @@
   ],
   "atlasRevisions": [
     "1d0125f118a0b7eb8f679ca5fcfdb9ada643bc0ad06e002c2ffb632298b54e05",
-    "5ccee733b4975e9ca2e59ef46066e65aa9651b62878dc5090a1cc8cf90166063",
+    "7da1078bba8274f6ce7d4b0a02aa8c5b045ac818f1d0c30f923ba776a6bf2930",
     "19a949f6bbaa1c8480442f3bfdb16ef753da79191efa225caf495ab4f9bbf7c8"
   ],
-  "revision": "7ed64c34833ca7c216172ca78b55f4a9f812870f717a9e09266f47e941fad329"
+  "revision": "c72807a2a8c99e3b2767612c5056e5eb68f887dcb9ff815b19828df81e71ee6e"
 }
