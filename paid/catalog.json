@@ -76,12 +76,12 @@
     {
       "id": 8,
       "enabled": true,
-      "title": "SpeakUP / 메이드업 카페",
+      "title": "SpeakUP",
       "mode": 1,
       "target": "grp_062ceb5f-f081-4cff-a7e4-21417b0de60a",
-      "start": 1794175544,
-      "end": 1794409200,
-      "imageRevision": "3cec2fc0df44b9105500bd78eb6969db3e250a14b29d41041073da5145389f42"
+      "start": 1794409200,
+      "end": 1796137200,
+      "imageRevision": "68ba91a66e1aa3e97b9f079787e0a39c8cbea822aa6cff553303dcdab92d8e78"
     },
     {
       "id": 9,
@@ -116,8 +116,8 @@
   ],
   "atlasRevisions": [
     "1d0125f118a0b7eb8f679ca5fcfdb9ada643bc0ad06e002c2ffb632298b54e05",
-    "7da1078bba8274f6ce7d4b0a02aa8c5b045ac818f1d0c30f923ba776a6bf2930",
+    "7ba7722694748233c3975aa9cb875aaf9846b6fefa131c7a67646a0ec4106a12",
     "19a949f6bbaa1c8480442f3bfdb16ef753da79191efa225caf495ab4f9bbf7c8"
   ],
-  "revision": "c72807a2a8c99e3b2767612c5056e5eb68f887dcb9ff815b19828df81e71ee6e"
+  "revision": "c5ac32e8181558e101623a0fd447267044e5aacd5d6210f070c523e3b4ce7f3f"
 }
