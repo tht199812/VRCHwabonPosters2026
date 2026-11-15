@@ -29,9 +29,9 @@
       "title": "보고프구2",
       "mode": 0,
       "target": "https://discord.com/invite/AEVagPPAQU",
-      "start": 1793545200,
-      "end": 1794754800,
-      "imageRevision": "33c0d12f9c27509e2938efce84aa39e92fc06186d089b93c08dcb738a9e04954"
+      "start": 1794754800,
+      "end": 1795964400,
+      "imageRevision": "199998faf5a0e59a804da1e498850450201de964b047ec5c43c4df31aa5b79c4"
     },
     {
       "id": 4,
@@ -115,9 +115,9 @@
     }
   ],
   "atlasRevisions": [
-    "1d0125f118a0b7eb8f679ca5fcfdb9ada643bc0ad06e002c2ffb632298b54e05",
+    "2a7bde1c881e216f9dcac77dc754414ca303052fff76479d8c37a003c7ba6680",
     "7ba7722694748233c3975aa9cb875aaf9846b6fefa131c7a67646a0ec4106a12",
     "44231ca997f9cb3b28c78a63c221f406b6774967e09431bb6f8bf67d4e4b14f2"
   ],
-  "revision": "5c10e9f6422475416047d22f03cfdd54673af6e6a844bda69eedcb2c0fac57d1"
+  "revision": "1fc8c3d7812d8cca1d04d5bd54aabaee1d350e8d76528d3c80d6421753362458"
 }
