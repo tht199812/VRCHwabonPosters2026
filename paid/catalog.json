@@ -59,9 +59,9 @@
       "title": "어메옆_BOSS",
       "mode": 1,
       "target": "grp_8e1f4979-fc11-42a1-875c-245dd4c117a0",
-      "start": 1792854000,
+      "start": 1795139407,
       "end": 1795273200,
-      "imageRevision": "30d263f136ba6edf0f9e9f595a5c753449ecbe65856e312f22aff1c59a95addd"
+      "imageRevision": "50bb420ba5a219d39989bd0266dcfa471573bb14f8e87c095c8f8c8179d5618a"
     },
     {
       "id": 7,
@@ -116,8 +116,8 @@
   ],
   "atlasRevisions": [
     "a5baceef1f3e4587fd89ae1fcefcaf63cc931b6e0af9fa39e9c2212e54d1c4ec",
-    "7ba7722694748233c3975aa9cb875aaf9846b6fefa131c7a67646a0ec4106a12",
+    "41a645532f64eaf9c43fd8b1b2228fbf5265897a03c4113035fc6e43151ad47c",
     "44231ca997f9cb3b28c78a63c221f406b6774967e09431bb6f8bf67d4e4b14f2"
   ],
-  "revision": "897e4365ba79b4de7242bebc97b0eeba36f05aed3050924ad9e54b2f08d2686e"
+  "revision": "32a7d826fa748360aedb45706c3dffefa5f475ec0a6de4aae2945cddfd8bce85"
 }
