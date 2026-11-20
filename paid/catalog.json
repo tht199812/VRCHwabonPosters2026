@@ -89,8 +89,8 @@
       "title": "달빛마리나교류의밤",
       "mode": 1,
       "target": "grp_3f7f12c8-04b5-4c85-ab80-e0f73ef4ee14",
-      "start": 1792767600,
-      "end": 1795186800,
+      "start": 1795186800,
+      "end": 1797606000,
       "imageRevision": "140459e926cb2ae9ff11f9b991675d7e7cbf1a2b81911fa80445f20286237c2c"
     },
     {
@@ -119,5 +119,5 @@
     "41a645532f64eaf9c43fd8b1b2228fbf5265897a03c4113035fc6e43151ad47c",
     "44231ca997f9cb3b28c78a63c221f406b6774967e09431bb6f8bf67d4e4b14f2"
   ],
-  "revision": "32a7d826fa748360aedb45706c3dffefa5f475ec0a6de4aae2945cddfd8bce85"
+  "revision": "b46f0059b8e809bf76d200aa8b83fd1ebb1142a2f9edbdeaec7fc1f4d14c5101"
 }
