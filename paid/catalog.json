@@ -36,12 +36,12 @@
     {
       "id": 4,
       "enabled": true,
-      "title": "빈 슬롯",
-      "mode": 3,
-      "target": "",
-      "start": 0,
-      "end": 0,
-      "imageRevision": "eb64cf4d9cb57a9785e4588caa35a09a98956bf4fd82d2c77ec18bff5f65d9da"
+      "title": "Stand Up Live Party",
+      "mode": 1,
+      "target": "grp_9c4aab2a-ecb1-4d6e-957a-1bd772013da8",
+      "start": 1795273200,
+      "end": 1795878000,
+      "imageRevision": "8574d0ce57bbefeeb8065eaeab5f7d324be8843556918acc2b6094351601f888"
     },
     {
       "id": 5,
@@ -59,8 +59,8 @@
       "title": "어메옆_BOSS",
       "mode": 1,
       "target": "grp_8e1f4979-fc11-42a1-875c-245dd4c117a0",
-      "start": 1795139407,
-      "end": 1795273200,
+      "start": 1795273200,
+      "end": 1797865200,
       "imageRevision": "50bb420ba5a219d39989bd0266dcfa471573bb14f8e87c095c8f8c8179d5618a"
     },
     {
@@ -115,9 +115,9 @@
     }
   ],
   "atlasRevisions": [
-    "218d772648f8deb0792ff8645e08e0f487c4197400ae5a8cd997be06e1bfca2c",
+    "ea8bd80792365d104f4895660c03569b3ac0d35550c3f4b14082ce020a1c3e45",
     "41a645532f64eaf9c43fd8b1b2228fbf5265897a03c4113035fc6e43151ad47c",
     "44231ca997f9cb3b28c78a63c221f406b6774967e09431bb6f8bf67d4e4b14f2"
   ],
-  "revision": "75c019d70a9b70c252ffe337269c2872abc6b2ca769e8a370851a8de5e50b720"
+  "revision": "dd1641f84e16810232b327d40db1df739481aa7f83f45d6d69e766c708b2ec63"
 }
