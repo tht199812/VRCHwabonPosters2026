@@ -36,12 +36,12 @@
     {
       "id": 4,
       "enabled": true,
-      "title": "종강 윷놀이 대회",
-      "mode": 0,
-      "target": "https://discord.com/invite/AEVagPPAQU",
-      "start": 1794028106,
-      "end": 1795258800,
-      "imageRevision": "c38fcb0cbb403867f220f492b16ce6590a96321f96914252ba73349f8d426f48"
+      "title": "빈 슬롯",
+      "mode": 3,
+      "target": "",
+      "start": 0,
+      "end": 0,
+      "imageRevision": "eb64cf4d9cb57a9785e4588caa35a09a98956bf4fd82d2c77ec18bff5f65d9da"
     },
     {
       "id": 5,
@@ -115,9 +115,9 @@
     }
   ],
   "atlasRevisions": [
-    "a5baceef1f3e4587fd89ae1fcefcaf63cc931b6e0af9fa39e9c2212e54d1c4ec",
+    "218d772648f8deb0792ff8645e08e0f487c4197400ae5a8cd997be06e1bfca2c",
     "41a645532f64eaf9c43fd8b1b2228fbf5265897a03c4113035fc6e43151ad47c",
     "44231ca997f9cb3b28c78a63c221f406b6774967e09431bb6f8bf67d4e4b14f2"
   ],
-  "revision": "b46f0059b8e809bf76d200aa8b83fd1ebb1142a2f9edbdeaec7fc1f4d14c5101"
+  "revision": "75c019d70a9b70c252ffe337269c2872abc6b2ca769e8a370851a8de5e50b720"
 }
