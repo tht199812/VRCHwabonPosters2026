@@ -46,12 +46,12 @@
     {
       "id": 5,
       "enabled": true,
-      "title": "제5회 VR 한국사진협회 사진 공모전",
-      "mode": 0,
-      "target": "https://discord.gg/5dKXB2Xv3G",
-      "start": 1794175544,
-      "end": 1795385144,
-      "imageRevision": "d1b9a40d8f7437fbf5f6ffa6d858dd465fe8a156b541a79f26236daf163eeee6"
+      "title": "벚꽃여관 (Sakura Ryokan)",
+      "mode": 1,
+      "target": "grp_f7c21096-fe99-4720-aff4-0a715a60b1a6",
+      "start": 1795385144,
+      "end": 1797199544,
+      "imageRevision": "f5adb29c188261c65942818f54e433cf5e90ca92b98bb353d39f459a5473d59b"
     },
     {
       "id": 6,
@@ -116,8 +116,8 @@
   ],
   "atlasRevisions": [
     "ea8bd80792365d104f4895660c03569b3ac0d35550c3f4b14082ce020a1c3e45",
-    "41a645532f64eaf9c43fd8b1b2228fbf5265897a03c4113035fc6e43151ad47c",
+    "f77c14674d2761b09bfeeb3a825b54aa600b0a3f846e4930f86ab9fdc8d51084",
     "44231ca997f9cb3b28c78a63c221f406b6774967e09431bb6f8bf67d4e4b14f2"
   ],
-  "revision": "dd1641f84e16810232b327d40db1df739481aa7f83f45d6d69e766c708b2ec63"
+  "revision": "23779f4e7145c247b215d58d7ab4fbf7224b8d868eb20187fd925130ffe15075"
 }
