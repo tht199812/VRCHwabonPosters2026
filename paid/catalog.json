@@ -18,10 +18,10 @@
       "enabled": true,
       "title": "Bami",
       "mode": 0,
-      "target": "https://alphano.booth.pm/",
+      "target": "https://alphano.booth.pm/items/8683661",
       "start": 0,
       "end": 0,
-      "imageRevision": "ee805499264680844fc669de92882254f95c3de172c569e839d900b1edcdfb16"
+      "imageRevision": "6f1597ea891436c2ffa1eb8d8b6c30bdd03e8d843c7774c32160b1c34f2ab8cd"
     },
     {
       "id": 3,
@@ -115,9 +115,9 @@
     }
   ],
   "atlasRevisions": [
-    "ea8bd80792365d104f4895660c03569b3ac0d35550c3f4b14082ce020a1c3e45",
+    "87ae792ac435b7171cdebf2d1516631818ffeffc4b759962e65632f52922bf74",
     "f77c14674d2761b09bfeeb3a825b54aa600b0a3f846e4930f86ab9fdc8d51084",
     "44231ca997f9cb3b28c78a63c221f406b6774967e09431bb6f8bf67d4e4b14f2"
   ],
-  "revision": "23779f4e7145c247b215d58d7ab4fbf7224b8d868eb20187fd925130ffe15075"
+  "revision": "be34d364752048164d72d7e9d2c2dc90fc9857b94c37115f708e57c0a27182c9"
 }
